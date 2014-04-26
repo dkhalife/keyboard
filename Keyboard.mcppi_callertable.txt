@@ -1,0 +1,20 @@
+main
+	__CC2DW
+	Ps2_Config
+	Sound_Init
+	Ps2_Key_Read
+		Keyboard_Active
+			Clock_Enable
+			Clock_Wait_High
+			Clock_Disable
+		Get_Hex
+			Wait_Falling
+			Clock_Disable
+		Ps2_Get_Value
+	Mul_16x16_U
+	Sound_Play
+		Get_Fosc_kHz
+		Mul_32x32_U
+		Div_32x32_U
+		Div_16x16_U
+		Delay_Cyc

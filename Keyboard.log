@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\Dan\Documents\PIC Projects\Keyboard\Keyboard.mcppi" -SP"C:\Program Files\mikroC PRO for PIC\defs\" -SP"C:\Program Files\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Dan\Documents\PIC Projects\Keyboard\" "Keyboard.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 31 ms	 
+diagnostics: 0	122	Compilation Started	Keyboard.c
+diagnostics: 69	123	Compiled Successfully	Keyboard.c
+diagnostics: 0	127	All files Compiled in 32 ms	 
+hint: 0	1144	Used RAM (bytes): 36 (2%)  Free RAM (bytes): 1479 (98%)	Used RAM (bytes): 36 (2%)  Free RAM (bytes): 1479 (98%)
+hint: 0	1144	Used ROM (bytes): 2819 (9%)  Free ROM (bytes): 29949 (91%)	Used ROM (bytes): 2819 (9%)  Free ROM (bytes): 29949 (91%)
+diagnostics: 0	125	Project Linked Successfully	Keyboard.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Keyboard.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 29 Apr 2012, 21:54:32	Keyboard.mcppi
